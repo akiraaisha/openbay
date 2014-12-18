@@ -29,21 +29,6 @@
            </p>
        </form>
        </br></br>
-
-<div><div style="
-    width: 1000px;
-    text-align: left;
-    margin: 0 auto;
-    line-height: 1.2;
-">
-
-  <img src="/img/postmortem.png"><br>
-</div></div>
-
-
-       <div style="text-align: center">
-           <img src="/img/in_memory_of.png" alt="As you probably know the beloved Pirate bay website is gone for now. It’ll be missed. It’ll be remembered as the pilgrim of freedom and possibilities on the web. It’s the symbol for a generation of the internet users. In it’s honor we are making the oldpiratebay.org search. We, the isohunt.to team, copied the base of Pirate bay in order to save it to the generations of users. Nothing will be forgotten. Keep on believing, keep on sharing."/>
-       </div>
     </div>
 </br></br>
 <div>Powered by <a href="http://isohunt.to">isohunt.to</a></div>

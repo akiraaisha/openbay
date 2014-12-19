@@ -43,3 +43,10 @@ Before the wizard will run you need to create a data base, the schema of the dat
 Congrats! Now you can open your domain name with any browser and follow the guide provided there. As default you will need to put page title which will appears on all your webpages.
 
 [Detailed instruction here](https://github.com/isohuntto/openbay/wiki/shared-hosting-guide)
+
+How to contribute?
+=======
+
+Report issues , submit pull requests to fix problems, or to create summarized and documented feature requests (preferably with pull requests that implement the feature). 
+
+**Feel free to contribute to the project in any way you like!**
